@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 import sqlite3
 
 # Database connection
@@ -117,7 +111,7 @@ main()
 conn.close()
 
 
-# In[ ]:
+
 
 
 
